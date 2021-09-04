@@ -5,6 +5,6 @@
 
     contentElem.addEventListener('animationend', function(){
         console.log('start');
-        window.location.href = "../templates/real.html";
+        window.location.href = "../real.php";
     })
 })();
